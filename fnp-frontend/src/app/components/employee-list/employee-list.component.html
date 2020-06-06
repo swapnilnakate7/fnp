@@ -1,0 +1,4 @@
+<div class="container">
+  <app-employee *ngFor="let e of employees" [value]="e"></app-employee>
+  <a (click)="getNextEmployees()">more</a>
+</div>
