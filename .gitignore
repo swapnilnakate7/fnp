@@ -9,6 +9,7 @@
 
 # dependencies
 /fnp-frontend/node_modules
+/fnp-frontend/.angular
 
 # profiling files
 chrome-profiler-events*.json
